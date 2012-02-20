@@ -1,0 +1,11 @@
+bzjs is a cross-browser javascript library written as a study on how "modern" javascript works. 
+
+It currently has the following functionality:
+
+* css selector
+* timer 
+* ajax
+* DOM manipulation 
+* IE range 
+* a base richtext
+ 
