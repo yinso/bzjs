@@ -1,5 +1,3 @@
-@import "../json2.js"; 
-
 var bzj = { version : '0.1' }; 
 
 (function() {
